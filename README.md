@@ -17,5 +17,5 @@ choco install dcm
 Simply run:
 
 ```sh
-choco upgrade dcm --version=1.0.0
+choco upgrade dcm
 ```
