@@ -1,0 +1,24 @@
+﻿From: https://dcm.dev/eula
+
+LICENSE
+
+Last Updated: January 13, 2023
+
+The present License agreement is a legal agreement between you, end user (either an individual or a company, hereinafter referred to as Licensee) licensing the DCM software (hereinafter referred to as DCM), and Individual Entrepreneur Dmitrii Zhifarskii - the developer and the exclusive owner of this software for the accompanying DCM identified below.
+
+The DCM may include various applications, utilities and components and may be provided to you on multiple media or in multiple copies. Nonetheless, the DCM is designed and provided to you as a single product. You are not required to use all component parts of the DCM, but you may not unbundle the component parts of the DCM for use on different computers or by different users. You may not unbundle or repackage the DCM for distribution, transfer or resale.
+
+Licensee may not modify, reverse engineer, decompile, disassemble, distribute, sub-license, sell, rent, lease, give or in any way transfer the Software, by any means or in any medium, including telecommunications. Licensee will use its best efforts and take all reasonable steps to protect the Software from unauthorized use, copying or dissemination, and will retain all proprietary notices intact.
+
+Notwithstanding contrary, Licensees Affiliates may access and use the DCM. "Licensees Affiliates" shall mean an individual or entity that (a) directly or indirectly controls, or is controlled by, or is under common control with a Licensee; and/or (b) owns or controls fifty percent (50.0%) or more of the outstanding voting securities of a Licensee.
+
+What does the license include besides the right of use?
+right of use product during 1 year;
+if customer has a Team License then the product may be used by no more than 10 developers;
+if customer has a Business License then the product may be used by no more than 30 developers;
+if customer has an Enterprise License then the product may be used by the number of developers (including developers of Licensees Affiliates) specified by the License name;
+get new versions (including major-versions) during 1 year;
+get support by e-mail during 1 year;
+
+Duration of license
+The Agreement is effective until terminated. Licensee may terminate this Agreement at any time and destroy the license info. The validity term of the Agreement is determined by the terms and conditions and is clearly indicated in the License info. The Agreement comes into force when you receive the license info. Individual Entrepreneur Dmitrii Zhifarskii may terminate the Agreement immediately without notice if you fail to comply with any provision of the Agreement.
