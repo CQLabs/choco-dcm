@@ -6,8 +6,9 @@
     <version>1.0.0</version>
     <title>dcm</title>
     <authors>Dmitry Zhifarsky</authors>
+    <owners>Dmitry Zhifarsky</owners>
     <projectUrl>https://dcm.dev/</projectUrl>
-    <iconUrl>https://github.com/CQLabs/choco-dcm/blob/main/assets/logo-256.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/CQLabs/choco-dcm/ed4646f4dda3bbea4b9f1b19c4d480377aa7a009/assets/logo-256.png</iconUrl>
     <licenseUrl>https://dcm.dev/eula/</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://dcm.dev/docs/teams/getting-started/</docsUrl>
