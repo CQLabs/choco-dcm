@@ -13,7 +13,7 @@ workflows:
         script: choco pack --out out
 
       - name: Publish package
-        script: choco push out/dcm.1.0.0.nupkg --source https://push.chocolatey.org/ --apikey "${CHOCO_KEY}"
+        script: choco push out/dcm.1.0.0.nupkg --source https://push.chocolatey.org/ --apikey feddb569-56e1-4f7e-9fda-020b200eab09
 
     artifacts:
       - out/**
