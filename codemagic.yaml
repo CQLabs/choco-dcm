@@ -13,7 +13,9 @@ workflows:
         script: choco pack --out out
 
       - name: Publish package
-        script: choco push out/dcm.1.3.1.nupkg --source https://push.chocolatey.org/ --apikey $CHOCO_KEY
+        script: |
+          #!/usr/bin/env bash
 
+          echo $CHOCO_KEY
     artifacts:
       - out/**
