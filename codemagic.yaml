@@ -13,9 +13,6 @@ workflows:
         script: choco pack --out out
 
       - name: Publish package
-        script: |
-          #!/usr/bin/env bash
-
-          echo $CHOCO_KEY
+        script: echo $CHOCO_KEY
     artifacts:
       - out/**
