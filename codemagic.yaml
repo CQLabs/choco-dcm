@@ -13,7 +13,7 @@ workflows:
         script: choco pack --out out
 
       - name: Publish package
-        script: choco push out/dcm.1.12.1.nupkg --source https://push.chocolatey.org/ --apikey $env:CHOCO_KEY
+        script: choco push out/dcm.1.13.0.nupkg --source https://push.chocolatey.org/ --apikey $env:CHOCO_KEY
 
     artifacts:
       - out/**
