@@ -12,7 +12,7 @@
     <licenseUrl>https://dcm.dev/eula/</licenseUrl>
     <packageSourceUrl>https://github.com/CQLabs/choco-dcm</packageSourceUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <docsUrl>https://dcm.dev/docs/getting-started/</docsUrl>
+    <docsUrl>https://dcm.dev/docs/</docsUrl>
     <tags>dcm Dart Flutter StaticAnalisys CodeMetrics</tags>
     <summary>DCM is a tool that helps improve the quality and consistency of Dart code by identifying and reporting problems, such as bugs and code that doesn't follow best practices. It also collects analytical data on the code through calculating code metrics and can be configured to set thresholds for these metrics.
     
