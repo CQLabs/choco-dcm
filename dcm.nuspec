@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>dcm</id>
-    <version>1.24.2</version>
+    <version>1.25.0</version>
     <title>dcm</title>
     <authors>Dmitry Zhifarsky</authors>
     <owners>Dmitry Zhifarsky</owners>
@@ -13,7 +13,7 @@
     <packageSourceUrl>https://github.com/CQLabs/choco-dcm</packageSourceUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://dcm.dev/docs/</docsUrl>
-    <tags>dcm Dart Flutter StaticAnalisys CodeMetrics</tags>
+    <tags>dcm Dart Flutter StaticAnalysis CodeMetrics</tags>
     <summary>DCM is a tool that helps improve the quality and consistency of Dart code by identifying and reporting problems, such as bugs and code that doesn't follow best practices. It also collects analytical data on the code through calculating code metrics and can be configured to set thresholds for these metrics.
     
       This executable requires a license to work. You can also request a trial version.
