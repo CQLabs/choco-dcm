@@ -1,6 +1,6 @@
 # DCM for Choco
 
-[DCM](https://dcm.dev/) pkg for [choco](https://community.chocolatey.org/packages/dcm/1.0.0#install).
+[DCM](https://dcm.dev/) pkg for [choco](https://community.chocolatey.org/packages/dcm).
 
 Windows users can use these pkgs to easily install and update DCM executable.
 
