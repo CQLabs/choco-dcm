@@ -7,7 +7,7 @@ $packageArgs = @{
   fileType      = 'exe'
   url           = $url
   softwareName  = 'DCMAnalyzer'
-  checksum      = '309c3fdf11d97f121296b382dd5f9460'
+  checksum      = '84457d9b0356dcf7d395e60b1b139054'
   checksumType  = 'md5'
 }
 Install-ChocolateyZipPackage @packageArgs
