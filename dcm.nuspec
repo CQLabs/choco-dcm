@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>dcm</id>
-    <version>1.32.0</version>
+    <version>1.32.1</version>
     <title>dcm</title>
     <authors>Dmitry Zhifarsky</authors>
     <owners>Dmitry Zhifarsky</owners>
