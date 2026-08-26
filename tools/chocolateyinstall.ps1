@@ -1,13 +1,13 @@
 ﻿$ErrorActionPreference = 'Stop'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://github.com/CQLabs/homebrew-dcm/releases/download/1.39.1/dcm-windows-release.zip'
+$url        = 'https://github.com/CQLabs/homebrew-dcm/releases/download/1.39.2/dcm-windows-release.zip'
 $packageArgs = @{
   packageName   = 'dcm'
   unzipLocation = $toolsDir
   fileType      = 'exe'
   url           = $url
   softwareName  = 'DCMAnalyzer'
-  checksum      = '4881d573c0b8b092fe34a650c54153d5'
+  checksum      = '0206d6c998bafda1597bf534360fd9ce'
   checksumType  = 'md5'
 }
 Install-ChocolateyZipPackage @packageArgs
